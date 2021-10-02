@@ -6,4 +6,4 @@ The file also provides an implementation of `IFuture<T>` in `Future<T>`. Game co
 
 The `Future<T>` implementation of using delegates is not generally going to be garbage free, however the futures are generally used for things like web resources or game saves which almost always require some allocation of memory to function (such as creating stream writers or readers).
 
-Additionally `Future<T>` does depend on the [Dispatcher](https://github.com/nickgravelyn/UnityToolbag/tree/master/Dispatcher) class from UnityToolbag (to ensure callbacks are invoked on the main game thread), so you must either include that class in your project or remove/change the `Future<T>` implementation.
+Additionally `Future<T>` does depend on the [Dispatcher](https://github.com/kellygravelyn/UnityToolbag/tree/master/Dispatcher) class from UnityToolbag (to ensure callbacks are invoked on the main game thread), so you must either include that class in your project or remove/change the `Future<T>` implementation.

@@ -26,8 +26,8 @@ Alternatively you can just cherry pick the features you want and copy only those
 
 Here are some other repos that contain Unity goodies:
 
-- [Open Character Controller](https://github.com/nickgravelyn/OpenCharacterController) - Framework for building first and third person character controllers in Unity.
-- [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - This is my system for importing Tiled maps into Unity.
+- [Open Character Controller](https://github.com/kellygravelyn/OpenCharacterController) - Framework for building first and third person character controllers in Unity.
+- [UnityTiled](https://github.com/kellygravelyn/UnityTiled) - This is my system for importing Tiled maps into Unity.
 - [Awesome-Unity](https://github.com/RyanNielson/awesome-unity) - This is a neat repo that just lists a bunch of other Unity repos. Check there for great stuff.
 
 ## Contributing

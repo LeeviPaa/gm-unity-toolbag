@@ -9,7 +9,7 @@ This basic component+editor combo lets you change the sorting properties of _any
 
 ## SortingLayerAttribute
 
-_This attribute/property drawer was adapted from [ChemiKhazi's pull request](https://github.com/nickgravelyn/UnityToolbag/pull/1)_.
+_This attribute/property drawer was adapted from [ChemiKhazi's pull request](https://github.com/kellygravelyn/UnityToolbag/pull/1)_.
 
 If you want to change an object's sorting layer at runtime but want to configure it in the inspector, this is the better option. Using attributes, you can have any regular integer property show up as a sorting layer in the Inspector. Example usage:
 
